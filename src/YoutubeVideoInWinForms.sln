@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeVideoInWinForms", "YoutubeVideoInWinForms\YoutubeVideoInWinForms.csproj", "{E32713F6-23F6-4D19-A1EF-24CC15DB8A72}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{42F76B8F-6B3D-4E0B-82E4-754A89DACF7D}"
+	ProjectSection(SolutionItems) = preProject
+		..\image.png = ..\image.png
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
